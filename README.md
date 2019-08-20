@@ -1,0 +1,1 @@
+--------------------> Démarrer le serveur puis aller sur https://localhost:3000/static_pages/index <------------------------
